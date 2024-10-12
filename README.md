@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-<img src="https://tpsignal.ai/wp-content/uploads/2024/10/TPSIGNAL.png" alt="Project Logo" width="300"/>
+<img src="https://tpsignal.ai/wp-content/uploads/2024/10/tp-logo-white-e1728727674872.png" alt="Project Logo" width="300"/>
 </div>
 
-# TPSignalAi
+
 
 TPSignalAi is an AI-driven platform that provides trading signals and market analysis for financial markets. It helps traders and investors make informed decisions by analyzing data and offering insights based on machine learning models.
 
