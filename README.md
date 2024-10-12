@@ -1,5 +1,6 @@
-![Project Logo](https://tpsignal.ai/wp-content/uploads/2024/10/TPSIGNAL.png)
-
+<div style="text-align: center;">
+<img src="https://tpsignal.ai/wp-content/uploads/2024/10/TPSIGNAL.png" alt="Project Logo" width="300"/>
+</div>
 
 # TPSignalAi
 
