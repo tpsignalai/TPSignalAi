@@ -1,3 +1,6 @@
+![Project Logo](https://tpsignal.ai/wp-content/uploads/2024/10/TPSIGNAL.png)
+
+
 # TPSignalAi
 
 TPSignalAi is an AI-driven platform that provides trading signals and market analysis for financial markets. It helps traders and investors make informed decisions by analyzing data and offering insights based on machine learning models.
